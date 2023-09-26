@@ -80,8 +80,8 @@ function Menu() {
         // React.Fragment is used here.....!!! <> </>
         <>
           <p>
-            Authentic Italin Cuisine. 6 creative dishes to choose from. All from
-            our stone oven, all organic, all delicious.
+            Authentic Italin Cuisines. 6 creative dishes to choose from. All
+            from our stone oven, all organic, all delicious.
           </p>
           <ul className="pizzas">
             {pizzaData.map((foodItems) => (
